@@ -5,7 +5,8 @@
 [![License](https://img.shields.io/badge/license-MIT-red)](#)  
 
 <h4 align="center">
-    <img src=".github/logo@3x.png" width="250px" /><br>
+    <img src=".github/logo@3x.png" width="250px" />
+    <br><br><br>
     <b>Rocketbox é uma aplicação simples semelhante ao dropbox com a funcionalidade de fazer upload de imagens</b> 📦
 </h4>
 
